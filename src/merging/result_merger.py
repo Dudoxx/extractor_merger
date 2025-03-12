@@ -153,7 +153,18 @@ def deduplicate_with_llm(items, field_name):
     if len(items) == 1:
         return items
     
-    print(f"Deduplicating {field_name} items with LLM: {items}")
+    # Simple deduplication for common cases
+    # This helps avoid unnecessary LLM calls for simple cases
+    unique_items = []
+    for item in items:
+        if item not in unique_items:
+            unique_items.append(item)
+    
+    # If we've reduced to a single item, return it
+    if len(unique_items) == 1:
+        return unique_items
+    
+    print(f"Deduplicating {field_name} items with LLM: {unique_items}")
     
     # Build the system prompt
     system_prompt = f"""You are an expert data deduplication assistant. Your task is to deduplicate a list of {field_name} items.

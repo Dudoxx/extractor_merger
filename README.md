@@ -1,6 +1,6 @@
 # DUDOXX Field Extraction System
 
-A Python-based system for extracting structured fields from long-form text using the DUDOXX LLM API. The system efficiently processes large documents by chunking the text, processing chunks in parallel, and merging the results.
+A Python-based system for extracting structured fields from long-form text using the DUDOXX LLM API. The system efficiently processes large documents by chunking the text, processing chunks in parallel, and merging the results. It includes both a command-line interface and a FastAPI web service.
 
 ## Features
 
@@ -10,6 +10,9 @@ A Python-based system for extracting structured fields from long-form text using
 - **Flexible Output Formats**: Support for JSON, text, Markdown, CSV, and HTML output formats
 - **Date Normalization**: Automatically normalize dates to a consistent format
 - **Configurable via Environment**: All parameters can be configured via environment variables
+- **FastAPI Web Service**: RESTful API for field extraction with multi-worker support
+- **Robust File Handling**: Support for various file encodings and formats
+- **Improved Deduplication**: Smart deduplication of extracted fields
 
 ## Installation
 
@@ -33,7 +36,9 @@ DUDOXX_MODEL_NAME=dudoxx
 
 ## Usage
 
-### Basic Usage
+### Command-Line Interface
+
+#### Basic Usage
 
 Extract fields from a text file:
 
@@ -41,7 +46,7 @@ Extract fields from a text file:
 python main.py input.txt --fields "first_name,last_name,birthdate"
 ```
 
-### Advanced Usage
+#### Advanced Usage
 
 ```bash
 python main.py input.txt \
@@ -49,14 +54,14 @@ python main.py input.txt \
   --output "extracted_data" \
   --format json \
   --chunk-method paragraphs \
-  --chunk-size 1500 \
-  --chunk-overlap 200 \
+  --chunk-size 500 \
+  --chunk-overlap 50 \
   --max-threads 8 \
   --date-fields "birthdate" \
   --date-format "dd/mm/YYYY"
 ```
 
-### Command-line Arguments
+#### Command-line Arguments
 
 - `input_file`: Path to the input text file
 - `--fields`: Comma-separated list of fields to extract
@@ -70,6 +75,74 @@ python main.py input.txt \
 - `--date-format`: Format for date fields
 - `--unknown-value`: Value to use for unknown fields
 - `--system-prompt`: System prompt to use
+
+### FastAPI Web Service
+
+The system also includes a FastAPI web service for field extraction via HTTP requests.
+
+#### Starting the Server
+
+Start the server with multiple worker processes for improved concurrency:
+
+```bash
+cd front_end
+python run.py --workers 4
+```
+
+Command-line arguments for the server:
+- `--workers`: Number of worker processes (default: number of CPU cores)
+- `--host`: Host to bind the server to (default: 0.0.0.0)
+- `--port`: Port to bind the server to (default: 8000)
+- `--reload`: Enable auto-reload on code changes (only works with a single worker)
+
+#### API Endpoints
+
+- `POST /api/v1/extract/text`: Extract fields from text
+  - Request body: JSON with `text` and `fields` properties
+  - Example: `{"text": "John Smith was born on February 9th, 1949.", "fields": "first_name,last_name,birthdate"}`
+
+- `POST /api/v1/extract/file`: Extract fields from an uploaded file
+  - Form data: `file` (the file to upload) and `fields` (comma-separated list of fields)
+  - Additional parameters: `chunking_method`, `chunk_size`, `chunk_overlap`, `max_workers`, etc.
+
+- `GET /api/v1/health`: Check the health of the API
+  - Returns: `{"status": "ok", "version": "1.0.0"}`
+
+#### Example API Request
+
+Using curl to extract fields from a file:
+
+```bash
+curl -X POST \
+  -H "Authorization: Bearer sk-dudoxx-2025" \
+  -F "file=@input_data/sample1.txt" \
+  -F "fields=first_name,last_name,birthdate,gender,address,phone" \
+  -F "chunk_size=500" \
+  -F "chunk_overlap=50" \
+  http://localhost:8000/api/v1/extract/file
+```
+
+Response:
+```json
+{
+  "status": "success",
+  "request_id": "a4169eb6-792a-48e4-8d23-4eecf2f35ab4",
+  "processing_time": 4.27,
+  "extracted_fields": {
+    "first_name": "John",
+    "last_name": "Smith",
+    "birthdate": "09/02/1949",
+    "gender": "Male",
+    "address": "123 Main St Apt 4B New York NY 10001",
+    "phone": "(555) 123-4567"
+  },
+  "metrics": {
+    "chunks_processed": 2,
+    "llm_calls": 2,
+    "processing_time": 4.27
+  }
+}
+```
 
 ## Environment Configuration
 
@@ -135,9 +208,34 @@ dudoxx_extractor_project/
 │   └── utils/                     # Utilities
 │       ├── formatters.py          # Format output
 │       └── validators.py          # Validate extracted data
-├── main.py                        # Main entry point
+├── front_end/                     # FastAPI web service
+│   ├── app/                       # FastAPI application
+│   │   ├── api/                   # API routes and dependencies
+│   │   │   ├── dependencies.py    # API dependencies
+│   │   │   └── routes/            # API routes
+│   │   │       ├── extraction.py  # Field extraction routes
+│   │   │       ├── health.py      # Health check routes
+│   │   │       └── docs.py        # API documentation routes
+│   │   ├── core/                  # Core modules
+│   │   │   ├── config.py          # API configuration
+│   │   │   ├── errors.py          # Error handling
+│   │   │   ├── logging.py         # Logging configuration
+│   │   │   └── security.py        # Security configuration
+│   │   ├── models/                # API models
+│   │   │   ├── requests.py        # Request models
+│   │   │   └── responses.py       # Response models
+│   │   ├── services/              # API services
+│   │   │   └── extractor.py       # Field extraction service
+│   │   └── main.py                # FastAPI application entry point
+│   ├── run.py                     # Server startup script with multi-worker support
+│   ├── requirements.txt           # FastAPI dependencies
+│   └── Dockerfile                 # Docker configuration
+├── main.py                        # Command-line interface entry point
 ├── input_data/                    # Sample input data
-└── output_results/                # Output results
+├── output_results/                # Output results
+└── logs/                          # Log files
+    ├── prompts/                   # Saved prompts
+    └── responses/                 # Saved responses
 ```
 
 ### Processing Flow
