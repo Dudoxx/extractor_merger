@@ -1,0 +1,3120 @@
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson
+Patient Medical Record
+
+Personal Information:
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Social Security Number: 123-45-6789
+Address: 123 Main St, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+Emergency Contact: Jane Smith (Wife), (555) 987-6543
+
+Medical History:
+- Diagnosed with Type 2 Diabetes on March 15, 2010
+- Hypertension since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985
+- No known allergies
+- Family history of heart disease (father)
+
+Current Medications:
+1. Metformin 500mg twice daily (for diabetes)
+2. Lisinopril 10mg once daily (for hypertension)
+3. Aspirin 81mg once daily
+4. Vitamin D 1000 IU daily
+
+Vital Signs (Last Visit - January 10, 2023):
+Blood Pressure: 138/85 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Weight: 185 lbs
+Height: 5'10"
+BMI: 26.5
+
+Laboratory Results (January 10, 2023):
+- Hemoglobin A1c: 7.2% (Target: <7.0%)
+- Fasting Blood Glucose: 135 mg/dL (Target: 70-130 mg/dL)
+- Total Cholesterol: 195 mg/dL
+- LDL Cholesterol: 110 mg/dL
+- HDL Cholesterol: 45 mg/dL
+- Triglycerides: 150 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+Recent Visits:
+1. January 10, 2023 - Regular check-up with Dr. Sarah Johnson
+   - Discussed diabetes management
+   - Adjusted medication dosage
+   - Recommended increased physical activity
+
+2. October 5, 2022 - Endocrinology consultation with Dr. Michael Chen
+   - Comprehensive diabetes evaluation
+   - Discussed potential insulin therapy if A1c doesn't improve
+   - Scheduled follow-up in 3 months
+
+3. July 18, 2022 - Physical therapy session with Lisa Rodriguez, PT
+   - Knee rehabilitation exercises
+   - Reported improvement in mobility
+   - Recommended continued home exercises
+
+Treatment Plan:
+- Continue current medications
+- Follow diabetic diet (low carbohydrate, low sugar)
+- Exercise 30 minutes daily, 5 days per week
+- Monitor blood glucose levels twice daily
+- Schedule follow-up appointment in 3 months
+- Annual eye examination due in April 2023
+- Annual foot examination due in April 2023
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023
+Primary Care Physician: Dr. Sarah Johnson
+
+Notes:
+Patient reports improved energy levels since last visit. Still experiencing occasional knee pain after extended walking. Compliance with medication regimen is good. Patient is motivated to improve A1c levels through diet and exercise.
+
+Next Appointment: April 15, 2023 at 10:00 AM with Dr. Sarah Johnson

@@ -1,0 +1,39 @@
+Patient Medical Record - Duplicate Information Test
+
+Personal Information (Section 1):
+Name: John Smith
+Date of Birth: February 9th, 1949
+Gender: Male
+Address: 123 Main St, New York, NY 10001
+Phone: (555) 123-4567
+Email: john.smith@email.com
+
+Medical History:
+- Type 2 Diabetes (diagnosed March 15, 2010)
+- Hypertension since 2005
+- Knee replacement surgery (July 12, 2018)
+
+Personal Information (Section 2 - Slightly Different Format):
+Patient Name: John Smith
+DOB: 02/09/1949
+Gender: M
+Address: 123 Main Street, Apt 4B, New York, NY 10001
+Contact: 555-123-4567
+Email Address: johnsmith@email.com
+
+Additional Medical History:
+- Diagnosed with Type 2 Diabetes (March 15, 2010)
+- High blood pressure (Hypertension) since 2005
+- Underwent knee replacement surgery on July 12, 2018
+- Appendectomy in 1985 (not mentioned in first section)
+
+Emergency Contact Information:
+Name: Jane Smith (Wife)
+Phone: (555) 987-6543
+Address: Same as patient
+
+Insurance Information:
+Provider: Blue Cross Blue Shield
+Policy Number: BCBS123456789
+Group Number: GRP987654
+Effective Date: January 1, 2023

@@ -1,0 +1,95 @@
+RESUME
+
+JANE DOE
+123 Professional Lane, San Francisco, CA 94105
+Phone: (415) 555-7890 | Email: jane.doe@email.com
+LinkedIn: linkedin.com/in/janedoe | Portfolio: janedoe.com
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with over 8 years of expertise in full-stack development, specializing in scalable web applications and cloud architecture. Proven track record of leading teams to deliver high-quality software solutions that drive business growth. Passionate about clean code, performance optimization, and mentoring junior developers.
+
+SKILLS
+Programming Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Angular, Vue.js, HTML5, CSS3, SASS
+Backend: Node.js, Express, Django, Spring Boot
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Terraform
+Tools: Git, JIRA, Confluence, Figma, VS Code
+Methodologies: Agile/Scrum, TDD, BDD, Microservices
+
+WORK EXPERIENCE
+
+SENIOR SOFTWARE ENGINEER
+TechCorp Inc., San Francisco, CA
+March 2020 - Present
+
+- Led the development of a microservices-based e-commerce platform that increased transaction throughput by 300% and reduced latency by 40%
+- Architected and implemented a real-time analytics dashboard using React, Node.js, and WebSockets, processing over 10,000 events per second
+- Mentored a team of 5 junior developers, conducting code reviews and pair programming sessions
+- Optimized database queries and implemented caching strategies, reducing API response times by 60%
+- Collaborated with product managers and designers to define technical requirements and create implementation roadmaps
+- Introduced automated testing practices that increased code coverage from 45% to 85%
+
+SOFTWARE ENGINEER
+InnovateSoft, Oakland, CA
+June 2017 - February 2020
+
+- Developed and maintained RESTful APIs using Node.js and Express, serving mobile and web applications
+- Implemented authentication and authorization systems using OAuth 2.0 and JWT
+- Created responsive web interfaces with React and Redux, following accessibility best practices
+- Participated in agile development processes, including daily stand-ups, sprint planning, and retrospectives
+- Integrated third-party services and APIs, including payment gateways and social media platforms
+- Contributed to open-source projects and internal libraries to improve development efficiency
+
+JUNIOR DEVELOPER
+StartupLaunch, San Jose, CA
+August 2015 - May 2017
+
+- Built and maintained features for a SaaS platform using Angular and Java Spring
+- Collaborated with QA team to identify and fix bugs in production systems
+- Assisted in database design and implementation using PostgreSQL
+- Participated in code reviews and documentation efforts
+- Developed internal tools to automate repetitive tasks, saving 10+ hours per week for the team
+
+EDUCATION
+
+MASTER OF SCIENCE IN COMPUTER SCIENCE
+Stanford University, Stanford, CA
+Graduated: May 2015
+GPA: 3.8/4.0
+Thesis: "Efficient Algorithms for Distributed Systems"
+
+BACHELOR OF SCIENCE IN COMPUTER ENGINEERING
+University of California, Berkeley, CA
+Graduated: June 2013
+GPA: 3.7/4.0
+Honors: Dean's List (2010-2013)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional (2022)
+- Google Cloud Professional Cloud Architect (2021)
+- MongoDB Certified Developer (2019)
+- Certified Scrum Master (2018)
+
+PROJECTS
+
+SMARTBUDGET (github.com/janedoe/smartbudget)
+- Developed a personal finance application using React Native and Firebase
+- Implemented machine learning algorithms to categorize transactions and predict spending patterns
+- Featured in Product Hunt's "Apps of the Day" with over 50,000 downloads
+
+OPENWEATHER API WRAPPER (github.com/janedoe/weather-api)
+- Created an open-source Node.js library for the OpenWeather API with 2,000+ GitHub stars
+- Implemented caching strategies and rate limiting to optimize API usage
+- Published as an npm package with 100,000+ monthly downloads
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Mandarin Chinese (Intermediate)
+
+INTERESTS
+- Contributing to open-source projects
+- Participating in hackathons
+- Technical blogging
+- Hiking and outdoor photography
